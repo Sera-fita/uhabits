@@ -150,4 +150,32 @@ Upomínky mohou být potvrzen, odloženy nebo smazány přímo z tvého zaříze
 <string name="bug_report_failed">"Generace výpisu chyb selhala."</string>
 <string name="generate_bug_report">"Generovat výpis chyb"</string>
 <string name="troubleshooting">"Řešení problémů"</string>
+<string name="help_translate">"Help translate this app"</string>
+<string name="night_mode">"Night mode"</string>
+<string name="use_pure_black">"Use pure black in night mode"</string>
+<string name="pure_black_description">"Replaces gray backgrounds with pure black in night mode. Reduces battery usage in phones with AMOLED display."</string>
+<string name="interface_preferences">"Interface"</string>
+<string name="reverse_days">"Reverse order of days"</string>
+<string name="reverse_days_description">"Show days in reverse order on the main screen"</string>
+<string name="day">"Day"</string>
+<string name="week">"Week"</string>
+<string name="month">"Month"</string>
+
+<!-- Three-month period -->
+<string name="quarter">"Quarter"</string>
+<string name="year">"Year"</string>
+
+<!-- Middle part of the sentence '1 time in xx days' -->
+<!-- Middle part of the sentence '1 time in xx days' -->
+<string name="time_every">"time in"</string>
+<string name="every_x_days">"Every %d days"</string>
+<string name="every_x_weeks">"Every %d weeks"</string>
+<string name="every_x_months">"Every %d months"</string>
+
+<!-- The old "habit strength" has been replaced by "score". Feel free to translate "score" as "strength" or "stability" if it sounds more natural in your language. -->
+<string name="score">"Score"</string>
+<string name="reminder_sound">"Reminder sound"</string>
+
+<!-- Appears when the user disables the reminder sound. Could also be "no sound", "mute" or "silent". -->
+<string name="none">"None"</string>
 </resources>
