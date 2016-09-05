@@ -1,5 +1,23 @@
 # Changelog
 
+### 1.5.4 (May 29, 2016)
+
+* Fix crash upon opening settings screen in some phones
+* Fix missing folders in CSV archive
+* Add Serbian translation
+
+### 1.5.3 (May 22, 2016)
+
+* Complete Arabic and Czech translations
+* Fix crash at startup
+* Fix checkmark widget on custom launchers
+
+### 1.5.2 (May 19, 2016)
+
+* Fix missing attachment on bug reports
+* Fix bug that prevents some widgets from rendering
+* Complete Japanese translation
+
 ### 1.5.1 (May 17, 2016)
 
 * Fix build on F-Droid

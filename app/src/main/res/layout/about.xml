@@ -105,6 +105,10 @@
                 <TextView
                     style="@style/About.Item"
                     android:text="Álinson Xavier"/>
+
+                <TextView
+                    style="@style/About.Item"
+                    android:text="Денис (sciamano)"/>
             </LinearLayout>
 
             <LinearLayout
@@ -158,6 +162,14 @@
 
                 <TextView
                     style="@style/About.Item"
+                    android:text="Michael Faille (Français)"/>
+
+                <TextView
+                    style="@style/About.Item"
+                    android:text="Ivan Krušlin (Hrvatski)"/>
+
+                <TextView
+                    style="@style/About.Item"
                     android:text="Marco Cavazza (Italiano)"/>
 
                 <TextView
@@ -174,6 +186,10 @@
 
                 <TextView
                     style="@style/About.Item"
+                    android:text="Dušan Strgar (Slovenščina)"/>
+
+                <TextView
+                    style="@style/About.Item"
                     android:text="Dalecarlian (Svenska)"/>
 
                 <TextView
@@ -182,11 +198,15 @@
 
                 <TextView
                     style="@style/About.Item"
+                    android:text="Đorđe Vasiljević (српски)"/>
+
+                <TextView
+                    style="@style/About.Item"
                     android:text="Caner Başaran (Türkçe)"/>
 
                 <TextView
                     style="@style/About.Item"
-                    android:text="Yurii Stavytskyi (Української)"/>
+                    android:text="Yurii Stavytskyi (Українська)"/>
 
                 <TextView
                     style="@style/About.Item"
